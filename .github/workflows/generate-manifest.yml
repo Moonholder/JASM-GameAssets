@@ -41,9 +41,6 @@ jobs:
                   with open(path, 'rb') as f:
                       content = f.read()
                       
-                  if path.endswith('.json'):
-                      content = content.replace(b'\r\n', b'\n')
-                  
                   # Both C# System.IO.Hashing.XxHash3 and python xxhash hexdigest 
                   # output strictly matching hex strings. No byte reversal needed.
                   hash_hex = xxhash.xxh3_64(content).hexdigest()
