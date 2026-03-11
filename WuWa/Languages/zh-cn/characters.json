@@ -1,0 +1,238 @@
+[
+  {
+    "InternalName": "Others",
+    "DisplayName": "其他角色"
+  },
+  {
+    "InternalName": "Weapons",
+    "DisplayName": "武器"
+  },
+  {
+    "InternalName": "Gliders",
+    "DisplayName": "滑翔翼"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "Rover Perpetual Spark",
+        "DisplayName": "星火永明"
+      }
+    ],
+    "InternalName": "Rover",
+    "DisplayName": "漂泊者"
+  },
+  {
+    "InternalName": "Jianxin",
+    "DisplayName": "鉴心"
+  },
+  {
+    "InternalName": "Jiyan",
+    "DisplayName": "忌炎"
+  },
+  {
+    "InternalName": "Lingyang",
+    "DisplayName": "凌阳"
+  },
+  {
+    "InternalName": "Baizhi",
+    "DisplayName": "白芷"
+  },
+  {
+    "InternalName": "Chixia",
+    "DisplayName": "炽霞"
+  },
+  {
+    "InternalName": "Danjin",
+    "DisplayName": "丹瑾"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "Sanhua Exorcistic Adjuration",
+        "DisplayName": "叱妖诰"
+      }
+    ],
+    "InternalName": "Sanhua",
+    "DisplayName": "散华"
+  },
+  {
+    "InternalName": "Taoqi",
+    "DisplayName": "桃祈"
+  },
+  {
+    "InternalName": "Yangyang",
+    "DisplayName": "秧秧"
+  },
+  {
+    "InternalName": "Yuanwu",
+    "DisplayName": "渊武"
+  },
+  {
+    "InternalName": "Calcharo",
+    "DisplayName": "卡卡罗"
+  },
+  {
+    "InternalName": "Encore",
+    "DisplayName": "安可"
+  },
+  {
+    "InternalName": "Verina",
+    "DisplayName": "维里奈"
+  },
+  {
+    "InternalName": "Aalto",
+    "DisplayName": "秋水"
+  },
+  {
+    "InternalName": "Mortefi",
+    "DisplayName": "莫特斐"
+  },
+  {
+    "InternalName": "Yinlin",
+    "DisplayName": "吟霖"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "Changli Laurel Nymph",
+        "DisplayName": "桂枝宁芙"
+      }
+    ],
+    "InternalName": "Changli",
+    "DisplayName": "长离"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "Jinhsi Peach Blossom",
+        "DisplayName": "桃夭灼灼"
+      }
+    ],
+    "InternalName": "Jinhsi",
+    "DisplayName": "今汐"
+  },
+  {
+    "InternalName": "Zhezhi",
+    "DisplayName": "折枝"
+  },
+  {
+    "InternalName": "Xiangliyao",
+    "DisplayName": "相里要"
+  },
+  {
+    "InternalName": "Shorekeeper",
+    "DisplayName": "守岸人"
+  },
+  {
+    "InternalName": "Youhu",
+    "DisplayName": "釉瑚"
+  },
+  {
+    "InternalName": "Camellya",
+    "DisplayName": "椿"
+  }, 
+  {
+    "InternalName": "Lumi",
+    "DisplayName": "灯灯"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "Carlotta Splashing Summer",
+        "DisplayName": "夏日旖旎"
+      }
+    ],
+    "InternalName": "Carlotta",
+    "DisplayName": "珂莱塔"
+  },
+  {
+    "InternalName": "Roccia",
+    "DisplayName": "洛可可"
+  },
+  {
+    "InternalName": "Brant",
+    "DisplayName": "布兰特"
+  },
+  {
+    "InternalName": "Phoebe",
+    "DisplayName": "菲比"
+  },
+  {
+    "InternalName": "Cantarella",
+    "DisplayName": "坎特蕾拉"
+  },
+  {
+    "InternalName": "Zani",
+    "DisplayName": "赞妮",
+    "InGameSkins": [
+      {
+        "InternalName": "Zani Downtown Repose",
+        "DisplayName": "城市午茶"
+      }
+    ]
+  },
+  {
+    "InternalName": "Ciaccona",
+    "DisplayName": "夏空"
+  },
+  {
+    "InternalName": "Cartethyia",
+    "DisplayName": "卡提希娅"
+  },
+  {
+    "InternalName": "Lupa",
+    "DisplayName": "露帕"
+  },
+  {
+    "InternalName": "Phrolova",
+    "DisplayName": "弗洛洛"
+  },
+  {
+    "InternalName": "Augusta",
+    "DisplayName": "奥古斯塔"
+  },
+  {
+    "InternalName": "Iuno",
+    "DisplayName": "尤诺"
+  },
+  {
+    "InternalName": "Galbrena",
+    "DisplayName": "嘉贝莉娜"
+  },
+  {
+    "InternalName": "Qiuyuan",
+    "DisplayName": "仇远"
+  },
+  {
+    "InternalName": "Chisa",
+    "DisplayName": "千咲"
+  },
+  {
+    "InternalName": "Buling",
+    "DisplayName": "卜灵"
+  },
+  {
+    "InternalName": "Lynae",
+    "DisplayName": "琳奈"
+  },
+  {
+    "InternalName": "Mornye",
+    "DisplayName": "莫宁"
+  },
+  {
+    "InternalName": "Aemeath",
+    "DisplayName": "爱弥斯"
+  },
+  {
+    "InternalName": "Luuk",
+    "DisplayName": "陆 • 赫斯"
+  },
+  {
+    "InternalName": "Lucilla",
+    "DisplayName": "洛瑟菈"
+  },
+  {
+    "InternalName": "Sigrika",
+    "DisplayName": "西格莉卡"
+  }
+]
