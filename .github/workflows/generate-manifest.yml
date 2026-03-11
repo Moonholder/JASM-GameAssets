@@ -41,9 +41,9 @@ jobs:
                   with open(path, 'rb') as f:
                       content = f.read()
                   
-                  # C# System.IO.Hashing.XxHash3 outputs little-endian bytes. 
-                  # xxhash.digest() outputs big-endian bytes, so we reverse it.
-                  hash_hex = xxhash.xxh3_64(content).digest()[::-1].hex()
+                  # Both C# System.IO.Hashing.XxHash3 and python xxhash hexdigest 
+                  # output strictly matching hex strings. No byte reversal needed.
+                  hash_hex = xxhash.xxh3_64(content).hexdigest()
                   size = os.path.getsize(path)
                   
                   manifest['files'].append({
