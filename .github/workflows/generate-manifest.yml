@@ -54,7 +54,7 @@ jobs:
 
           manifest['files'].sort(key=lambda x: x['path'])
           with open('manifest.json', 'w') as f:
-              json.dump(manifest, f, indent=2)
+              json.dump(manifest, f, separators=(',', ':'))
           "
           cat manifest.json | head -20
 
