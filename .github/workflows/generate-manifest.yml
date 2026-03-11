@@ -17,52 +17,45 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install xxhash
+        run: pip install xxhash
+
       - name: Generate manifest.json
         run: |
-          echo "Generating manifest.json..."
-          
-          # Get current date as version
-          VERSION=$(date -u +"%Y.%m.%d")
-          
-          # Start JSON
-          echo "{" > manifest.json
-          echo "  \"version\": \"$VERSION\"," >> manifest.json
-          echo "  \"files\": [" >> manifest.json
-          
-          FIRST=true
-          
-          # Find all files except .github, manifest.json, README, and hidden files
-          find . -type f \
-            ! -path './.github/*' \
-            ! -path './.git/*' \
-            ! -name 'manifest.json' \
-            ! -name 'README.md' \
-            ! -name '*.py' \
-            ! -name '.gitignore' \
-            -print0 | sort -z | while IFS= read -r -d '' file; do
-            
-            # Remove leading ./
-            REL_PATH="${file#./}"
-            
-            # Calculate SHA256 and size
-            HASH=$(sha256sum "$file" | cut -d' ' -f1)
-            SIZE=$(stat -c%s "$file")
-            
-            if [ "$FIRST" = true ]; then
-              FIRST=false
-            else
-              echo "," >> manifest.json
-            fi
-            
-            printf '    { "path": "%s", "sha256": "%s", "size": %s }' \
-              "$REL_PATH" "$HASH" "$SIZE" >> manifest.json
-          done
-          
-          echo "" >> manifest.json
-          echo "  ]" >> manifest.json
-          echo "}" >> manifest.json
-          
-          echo "Manifest generated with version $VERSION"
+          python -c "
+          import os, json, datetime, xxhash
+
+          manifest = {
+              'version': datetime.datetime.utcnow().strftime('%Y.%m.%d'),
+              'files': []
+          }
+
+          for root, dirs, files in os.walk('.'):
+              dirs[:] = [d for d in dirs if d not in ['.github', '.git']]
+              for file in files:
+                  if file in ['manifest.json', 'README.md', '.gitignore'] or file.endswith('.py'):
+                      continue
+                  path = os.path.join(root, file)
+                  rel_path = os.path.relpath(path, '.').replace('\\\\', '/')
+                  
+                  with open(path, 'rb') as f:
+                      content = f.read()
+                  
+                  # C# System.IO.Hashing.XxHash3 outputs little-endian bytes. 
+                  # xxhash.digest() outputs big-endian bytes, so we reverse it.
+                  hash_hex = xxhash.xxh3_64(content).digest()[::-1].hex()
+                  size = os.path.getsize(path)
+                  
+                  manifest['files'].append({
+                      'path': rel_path,
+                      'hash': hash_hex,
+                      'size': size
+                  })
+
+          manifest['files'].sort(key=lambda x: x['path'])
+          with open('manifest.json', 'w') as f:
+              json.dump(manifest, f, indent=2)
+          "
           cat manifest.json | head -20
 
       - name: Commit manifest
