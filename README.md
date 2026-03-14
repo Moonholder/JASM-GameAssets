@@ -23,7 +23,7 @@ This repository is consumed by JASM's **Game Asset Sync** feature, which increme
 
 ## How It Works
 
-1. **CI** runs on every push to `main` and generates `manifest.json` with SHA256 hashes of all files.
+1. **CI** runs on every push to `main` and generates `manifest.json` with xxHash3-64 hashes of all files.
 2. **JASM client** downloads the remote `manifest.json`, compares with local version, and only downloads changed/new files.
 3. Assets are served via **jsDelivr CDN** for fast global access, with **GitHub Raw + mirror** fallback.
 
