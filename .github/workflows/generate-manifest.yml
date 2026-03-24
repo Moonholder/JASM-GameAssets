@@ -33,7 +33,7 @@ jobs:
           for root, dirs, files in os.walk('.'):
               dirs[:] = [d for d in dirs if d not in ['.github', '.git']]
               for file in files:
-                  if file in ['manifest.json', 'README.md', '.gitignore'] or file.endswith('.py'):
+                  if file in ['manifest.json', 'README.md', '.gitignore', '.gitattributes'] or file.endswith('.py'):
                       continue
                   path = os.path.join(root, file)
                   rel_path = os.path.relpath(path, '.').replace('\\\\', '/')
