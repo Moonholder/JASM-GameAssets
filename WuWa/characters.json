@@ -794,7 +794,7 @@
       "Luuk",
       "Herssen"
     ],
-    "ReleaseDate": "2026-02-07T00:00:00",
+    "ReleaseDate": "2026-02-26T00:00:00",
     "Image": "Luuk.webp",
     "Rarity": 5,
     "Element": "Spectro",
@@ -811,7 +811,7 @@
     "Keys": [
       "Sigrika"
     ],
-    "ReleaseDate": "2026-03-01T00:00:00",
+    "ReleaseDate": "2026-03-19T00:00:00",
     "Image": "Sigrika.webp",
     "Rarity": 5,
     "Element": "Aero",
@@ -826,9 +826,43 @@
   },
   {
     "Keys": [
+      "Hiyuki"
+    ],
+    "ReleaseDate": "2026-04-17T00:00:00",
+    "Image": "Hiyuki.png",
+    "Rarity": 5,
+    "Element": "Glacio",
+    "Class": "Sword",
+    "Region": [
+      "Lahai-Roi"
+    ],
+    "ModFilesName": "Hiyuki",
+    "InGameSkins": [],
+    "InternalName": "Hiyuki",
+    "DisplayName": "Hiyuki"
+  },
+  {
+    "Keys": [
+      "Denia"
+    ],
+    "ReleaseDate": "2026-04-17T00:00:00",
+    "Image": "Denia.png",
+    "Rarity": 5,
+    "Element": "Fusion",
+    "Class": "Rectifier",
+    "Region": [
+      "Lahai-Roi"
+    ],
+    "ModFilesName": "Denia",
+    "InGameSkins": [],
+    "InternalName": "Denia",
+    "DisplayName": "Denia"
+  },
+  {
+    "Keys": [
       "Lucilla"
     ],
-    "ReleaseDate": "2026-03-01T00:00:00",
+    "ReleaseDate": "2026-05-01T00:00:00",
     "Image": "Lucilla.webp",
     "Rarity": 5,
     "Element": "Glacio",

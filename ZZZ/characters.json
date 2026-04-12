@@ -109,7 +109,7 @@
     "Image": "Grace.webp",
     "Rarity": 5,
     "Element": "Electric",
-    "Class": "Anomoly",
+    "Class": "Anomaly",
     "Region": [
       "Belobog"
     ],
@@ -339,7 +339,7 @@
     "Image": "Piper.webp",
     "Rarity": 4,
     "Element": "Physical",
-    "Class": "Anomoly",
+    "Class": "Anomaly",
     "Region": [
       "Calydon"
     ],
@@ -391,7 +391,7 @@
     "Image": "Jane.webp",
     "Rarity": 5,
     "Element": "Physical",
-    "Class": "Anomoly",
+    "Class": "Anomaly",
     "Region": [
       "ResponseTeam"
     ],
@@ -469,7 +469,7 @@
     "Image": "Burnice.webp",
     "Rarity": 5,
     "Element": "Fire",
-    "Class": "Anomoly",
+    "Class": "Anomaly",
     "Region": [
       "Calydon"
     ],
@@ -487,7 +487,7 @@
     "Image": "Yanagi.webp",
     "Rarity": 5,
     "Element": "Electric",
-    "Class": "Anomoly",
+    "Class": "Anomaly",
     "Region": [
       "Section6"
     ],
@@ -995,9 +995,27 @@
   },
   {
     "Keys": [
+      "Nangong",
+      "Yu"
+    ],
+    "ReleaseDate": "2026-03-24T00:00:00",
+    "Image": "NangongYu.webp",
+    "Rarity": 5,
+    "Element": "Ether",
+    "Class": "Stun",
+    "Region": [
+      "Angels of Delusion"
+    ],
+    "ModFilesName": "NangongYu",
+    "InGameSkins": [],
+    "InternalName": "NangongYu",
+    "DisplayName": "Nangong Yu"
+  },
+  {
+    "Keys": [
       "Cissia"
     ],
-    "ReleaseDate": "2026-03-25T00:00:00",
+    "ReleaseDate": "2026-04-15T00:00:00",
     "Image": "Cissia.webp",
     "Rarity": 5,
     "Element": "Electric",
@@ -1012,20 +1030,36 @@
   },
   {
     "Keys": [
-      "Nangong",
-      "Yu"
+      "Promeia"
     ],
-    "ReleaseDate": "2026-03-26T00:00:00",
-    "Image": "NangongYu.webp",
+    "ReleaseDate": "2026-05-01T00:00:00",
+    "Image": "Promeia.png",
     "Rarity": 5,
-    "Element": "Ether",
-    "Class": "Stun",
+    "Element": "Ice",
+    "Class": "Anomaly",
     "Region": [
-      "Angels of Delusion"
+      "Krampus Compliance Authority"
     ],
-    "ModFilesName": "NangongYu",
+    "ModFilesName": "Promeia",
     "InGameSkins": [],
-    "InternalName": "NangongYu",
-    "DisplayName": "Nangong Yu"
+    "InternalName": "Promeia",
+    "DisplayName": "Promeia"
+  },
+  {
+    "Keys": [
+      "StarlightBilly"
+    ],
+    "ReleaseDate": "2026-05-01T00:00:00",
+    "Image": "StarlightBilly.png",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Rupture",
+    "Region": [
+      "Cunning Hares"
+    ],
+    "ModFilesName": "StarlightBilly",
+    "InGameSkins": [],
+    "InternalName": "StarlightBilly",
+    "DisplayName": "Starlight - Billy"
   }
 ]

@@ -1362,5 +1362,56 @@
     "InGameSkins": [],
     "InternalName": "Ashveil",
     "DisplayName": "Ashveil"
+  },
+  {
+    "Keys": [
+      "Evanescia"
+    ],
+    "ReleaseDate": "2026-05-13T00:00:00",
+    "Image": "evanescia.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Elation",
+    "Region": [
+      "Elixir Seekers"
+    ],
+    "ModFilesName": "Evanescia",
+    "InGameSkins": [],
+    "InternalName": "Evanescia",
+    "DisplayName": "Evanescia"
+  },
+  {
+    "Keys": [
+      "MortenaxBlade"
+    ],
+    "ReleaseDate": "2026-05-13T00:00:00",
+    "Image": "mortenaxblade.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Nihility",
+    "Region": [
+      "Stellaron Hunters"
+    ],
+    "ModFilesName": "MortenaxBlade",
+    "InGameSkins": [],
+    "InternalName": "MortenaxBlade",
+    "DisplayName": "Mortenax Blade"
+  },
+  {
+    "Keys": [
+      "SilverWolfLV999"
+    ],
+    "ReleaseDate": "2026-05-13T00:00:00",
+    "Image": "silverwolfLV999.webp",
+    "Rarity": 5,
+    "Element": "Imaginary",
+    "Class": "Elation",
+    "Region": [
+      "Stellaron Hunters"
+    ],
+    "ModFilesName": "SilverWolfLV999",
+    "InGameSkins": [],
+    "InternalName": "SilverWolfLV999",
+    "DisplayName": "Silver Wolf LV.999"
   }
 ]
