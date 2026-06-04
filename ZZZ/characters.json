@@ -378,7 +378,14 @@
       "Section6"
     ],
     "ModFilesName": "Miyabi",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "MiyabiDignifiedBlossom",
+        "Image": "MiyabiDignifiedBlossom.png",
+        "InternalName": "MiyabiDignifiedBlossom",
+        "DisplayName": "Dignified Blossom"
+      }
+    ],
     "InternalName": "Miyabi",
     "DisplayName": "Miyabi"
   },
@@ -674,7 +681,7 @@
     "ReleaseDate": "2025-06-06T00:00:00",
     "Image": "Yixuan.png",
     "Rarity": 5,
-    "Element": "Auric Ink",
+    "Element": "Ether",
     "Class": "Rupture",
     "Region": [
       "Yunkui"
@@ -1061,5 +1068,56 @@
     "InGameSkins": [],
     "InternalName": "StarlightBilly",
     "DisplayName": "Starlight - Billy"
+  },
+  {
+    "Keys": [
+      "Norma Hollowell"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "NormaHollowell.png",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Stun",
+    "Region": [
+      "External Strategy Department"
+    ],
+    "ModFilesName": "NormaHollowell",
+    "InGameSkins": [],
+    "InternalName": "NormaHollowell",
+    "DisplayName": "Norma Hollowell"
+  },
+  {
+    "Keys": [
+      "Pyrois"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "Pyrois.png",
+    "Rarity": 5,
+    "Element": "Ether",
+    "Class": "Attack",
+    "Region": [
+      "Phaethon"
+    ],
+    "ModFilesName": "Pyrois",
+    "InGameSkins": [],
+    "InternalName": "Pyrois",
+    "DisplayName": "Pyrois"
+  },
+  {
+    "Keys": [
+      "Velina Airgid"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "VelinaAirgid.png",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Anomaly",
+    "Region": [
+      "External Strategy Department"
+    ],
+    "ModFilesName": "VelinaAirgid",
+    "InGameSkins": [],
+    "InternalName": "VelinaAirgid",
+    "DisplayName": "Velina Airgid"
   }
 ]

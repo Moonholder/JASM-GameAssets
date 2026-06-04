@@ -374,7 +374,12 @@
       "Section6"
     ],
     "ModFilesName": "Miyabi",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "InternalName": "MiyabiDignifiedBlossom",
+        "DisplayName": "银庭花信"
+      }
+    ],
     "InternalName": "Miyabi",
     "DisplayName": "雅"
   },
@@ -700,5 +705,17 @@
   {
     "InternalName": "StarlightBilly",
     "DisplayName": "星徽・比利"
+  },
+  {
+    "InternalName": "NormaHollowell",
+    "DisplayName": "诺姆・霍洛维尔"
+  },
+  {
+    "InternalName": "Pyrois",
+    "DisplayName": "佩洛伊斯"
+  },
+  {
+    "InternalName": "VelinaAirgid",
+    "DisplayName": "维琳娜・艾嘉德"
   }
 ]

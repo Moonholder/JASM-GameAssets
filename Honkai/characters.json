@@ -1413,5 +1413,56 @@
     "InGameSkins": [],
     "InternalName": "SilverWolfLV999",
     "DisplayName": "Silver Wolf LV.999"
+  },
+  {
+    "Keys": [
+      "Gilgamesh"
+    ],
+    "ReleaseDate": "2026-07-24T00:00:00",
+    "Image": "Gilgamesh.webp",
+    "Rarity": 5,
+    "Element": "Lightning",
+    "Class": "Destruction",
+    "Region": [
+      "Another World"
+    ],
+    "ModFilesName": "Gilgamesh",
+    "InGameSkins": [],
+    "InternalName": "Gilgamesh",
+    "DisplayName": "Gilgamesh"
+  },
+  {
+    "Keys": [
+      "Rin Tohsaka"
+    ],
+    "ReleaseDate": "2026-07-24T00:00:00",
+    "Image": "RinTohsaka.webp",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Erudition",
+    "Region": [
+      "Another World"
+    ],
+    "ModFilesName": "RinTohsaka",
+    "InGameSkins": [],
+    "InternalName": "RinTohsaka",
+    "DisplayName": "Rin Tohsaka"
+  },
+  {
+    "Keys": [
+      "HimekoNova"
+    ],
+    "ReleaseDate": "2026-07-24T00:00:00",
+    "Image": "HimekoNova.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Erudition",
+    "Region": [
+      "Astral Express"
+    ],
+    "ModFilesName": "HimekoNova",
+    "InGameSkins": [],
+    "InternalName": "HimekoNova",
+    "DisplayName": "Himeko • Nova"
   }
 ]

@@ -2165,5 +2165,56 @@
     "InGameSkins": [],
     "InternalName": "Linnea",
     "DisplayName": "Linnea"
+  },
+  {
+    "Keys": [
+      "Nicole"
+    ],
+    "ReleaseDate": "2026-05-20T00:00:00",
+    "Image": "Nicole.png",
+    "Rarity": 5,
+    "Element": "Pyro",
+    "Class": "Catalyst",
+    "Region": [
+      "Nod-Krai"
+    ],
+    "ModFilesName": "Nicole",
+    "InGameSkins": [],
+    "InternalName": "Nicole",
+    "DisplayName": "Nicole"
+  },
+  {
+    "Keys": [
+      "Prune"
+    ],
+    "ReleaseDate": "2026-05-20T00:00:00",
+    "Image": "Prune.png",
+    "Rarity": 4,
+    "Element": "Anemo",
+    "Class": "Catalyst",
+    "Region": [
+      "Mondstadt"
+    ],
+    "ModFilesName": "Prune",
+    "InGameSkins": [],
+    "InternalName": "Prune",
+    "DisplayName": "Prune"
+  },
+  {
+    "Keys": [
+      "Lohen"
+    ],
+    "ReleaseDate": "2026-06-09T00:00:00",
+    "Image": "Lohen.png",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Polearm",
+    "Region": [
+      "Mondstadt"
+    ],
+    "ModFilesName": "Lohen",
+    "InGameSkins": [],
+    "InternalName": "Lohen",
+    "DisplayName": "Lohen"
   }
 ]
