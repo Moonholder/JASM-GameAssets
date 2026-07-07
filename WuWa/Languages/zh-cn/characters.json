@@ -217,7 +217,13 @@
   },
   {
     "InternalName": "Mornye",
-    "DisplayName": "莫宁"
+    "DisplayName": "莫宁",
+    "InGameSkins": [
+      {
+        "InternalName": "Mornye Plush Dream",
+        "DisplayName": "呢绒梦"
+      }
+    ]
   },
   {
     "InternalName": "Aemeath",
@@ -250,5 +256,29 @@
   {
     "InternalName": "Rebecca",
     "DisplayName": "丽贝卡"
+  },
+  {
+    "InternalName": "YangyangXuanling",
+    "DisplayName": "秧秧·玄翎"
+  },
+  {
+    "InternalName": "Suisui",
+    "DisplayName": "穗穗"
+  },
+  {
+    "InternalName": "Qingxiao",
+    "DisplayName": "清宵"
+  },
+  {
+    "InternalName": "Jingran",
+    "DisplayName": "景燃"
+  },
+  {
+    "InternalName": "Hsin",
+    "DisplayName": "心"
+  },
+  {
+    "InternalName": "Suoming",
+    "DisplayName": "锁暝"
   }
 ]

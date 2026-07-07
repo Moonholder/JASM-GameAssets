@@ -1464,5 +1464,39 @@
     "InGameSkins": [],
     "InternalName": "HimekoNova",
     "DisplayName": "Himeko • Nova"
+  },
+  {
+    "Keys": [
+      "RobinSummeretto"
+    ],
+    "ReleaseDate": "2026-08-24T00:00:00",
+    "Image": "RobinSummeretto.png",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Remembrance",
+    "Region": [
+      "Penacony"
+    ],
+    "ModFilesName": "RobinSummeretto",
+    "InGameSkins": [],
+    "InternalName": "RobinSummeretto",
+    "DisplayName": "Robin • Summeretto"
+  },
+  {
+    "Keys": [
+      "AventurineWaveflair"
+    ],
+    "ReleaseDate": "2026-08-24T00:00:00",
+    "Image": "AventurineWaveflair.png",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "Region": [
+      "IPC"
+    ],
+    "ModFilesName": "AventurineWaveflair",
+    "InGameSkins": [],
+    "InternalName": "AventurineWaveflair",
+    "DisplayName": "Aventurine • Waveflair"
   }
 ]

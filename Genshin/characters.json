@@ -2216,5 +2216,22 @@
     "InGameSkins": [],
     "InternalName": "Lohen",
     "DisplayName": "Lohen"
+  },
+  {
+    "Keys": [
+      "Sandrone"
+    ],
+    "ReleaseDate": "2026-07-1T00:00:00",
+    "Image": "Sandrone.png",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Claymore",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Sandrone",
+    "InGameSkins": [],
+    "InternalName": "Sandrone",
+    "DisplayName": "Sandrone"
   }
 ]

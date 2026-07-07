@@ -28,6 +28,10 @@
         {
           "InternalName": "BelleSummerSkies",
           "DisplayName": "夏日晴空"
+        },
+        {
+          "InternalName": "BelleBrillianceOfStars",
+          "DisplayName": "极星澄明"
         }
     ],
     "InternalName": "Belle",
@@ -54,7 +58,11 @@
       {
         "InternalName": "WisePeacefulWaves",
         "DisplayName": "浪影闲庭"
-      }
+      },
+        {
+          "InternalName": "WiseOathOfSkies",
+          "DisplayName": "苍穹执誓"
+        }
     ],
     "InternalName": "Wise",
     "DisplayName": "哲"
@@ -708,7 +716,7 @@
   },
   {
     "InternalName": "NormaHollowell",
-    "DisplayName": "诺姆・霍洛维尔"
+    "DisplayName": "诺姆"
   },
   {
     "InternalName": "Pyrois",
@@ -716,6 +724,12 @@
   },
   {
     "InternalName": "VelinaAirgid",
-    "DisplayName": "维琳娜・艾嘉德"
+    "DisplayName": "维琳娜",
+    "InGameSkins": [
+      {
+        "InternalName": "VelinaShadeOfLeisure",
+        "DisplayName": "暇时闲影"
+      }
+    ]
   }
 ]

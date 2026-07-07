@@ -768,7 +768,14 @@
       "Lahai-Roi"
     ],
     "ModFilesName": "Mornye",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "MornyePlushDream",
+        "Image": "MornyePlushDream.png",
+        "InternalName": "Mornye Plush Dream",
+        "DisplayName": "Plush Dream"
+      }
+    ],
     "InternalName": "Mornye",
     "DisplayName": "Mornye"
   },
@@ -908,5 +915,83 @@
     "InGameSkins": [],
     "InternalName": "Lucilla",
     "DisplayName": "Lucilla"
+  },
+  {
+    "Keys": ["YangyangXuanling"],
+    "ReleaseDate": "2026-07-10T00:00:00",
+    "Image": "YangyangXuanling.png",
+    "Rarity": 5,
+    "Element": "Havoc",
+    "Class": "Sword",
+    "Region": ["Huanglong"],
+    "ModFilesName": "YangyangXuanling",
+    "InGameSkins": [],
+    "InternalName": "YangyangXuanling",
+    "DisplayName": "Yangyang: Xuanling"
+  },
+  {
+    "Keys": ["Suisui"],
+    "ReleaseDate": "2026-07-10T00:00:00",
+    "Image": "Suisui.png",
+    "Rarity": 5,
+    "Element": "Glacio",
+    "Class": "Rectifier",
+    "Region": ["Huanglong"],
+    "ModFilesName": "Suisui",
+    "InGameSkins": [],
+    "InternalName": "Suisui",
+    "DisplayName": "Suisui"
+  },
+  {
+    "Keys": ["Qingxiao"],
+    "ReleaseDate": "2026-08-10T00:00:00",
+    "Image": "Qingxiao.png",
+    "Rarity": 5,
+    "Element": "Aero",
+    "Class": "Sword",
+    "Region": ["Huanglong"],
+    "ModFilesName": "Qingxiao",
+    "InGameSkins": [],
+    "InternalName": "Qingxiao",
+    "DisplayName": "Qingxiao"
+  },
+  {
+    "Keys": ["Jingran"],
+    "ReleaseDate": "2026-08-10T00:00:00",
+    "Image": "Jingran.png",
+    "Rarity": 5,
+    "Element": "None",
+    "Class": "None",
+    "Region": ["Huanglong"],
+    "ModFilesName": "Jingran",
+    "InGameSkins": [],
+    "InternalName": "Jingran",
+    "DisplayName": "Jingran"
+  },
+  {
+    "Keys": ["Hsin"],
+    "ReleaseDate": "2026-09-10T00:00:00",
+    "Image": "Hsin.png",
+    "Rarity": 5,
+    "Element": "None",
+    "Class": "None",
+    "Region": ["Huanglong"],
+    "ModFilesName": "Hsin",
+    "InGameSkins": [],
+    "InternalName": "Hsin",
+    "DisplayName": "Hsin"
+  },
+  {
+    "Keys": ["Suoming"],
+    "ReleaseDate": "2026-09-10T00:00:00",
+    "Image": "Suoming.png",
+    "Rarity": 5,
+    "Element": "None",
+    "Class": "None",
+    "Region": ["Huanglong"],
+    "ModFilesName": "Suoming",
+    "InGameSkins": [],
+    "InternalName": "Suoming",
+    "DisplayName": "Suoming"
   }
 ]
