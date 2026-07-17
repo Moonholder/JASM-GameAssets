@@ -497,5 +497,39 @@
         "InGameSkins": [],
         "InternalName": "Camille",
         "DisplayName": "Camille"
+    },
+    {
+        "Keys": [
+            "Arcane"
+        ],
+        "ReleaseDate": "2026-07-16T00:00:00",
+        "Image": "Arcane.png",
+        "Rarity": 6,
+        "Element": "Natura",
+        "Class": "ArtsUnit",
+        "Region": [
+            "Yinglung Special Task Force"
+        ],
+        "ModFilesName": "Arcane",
+        "InGameSkins": [],
+        "InternalName": "Arcane",
+        "DisplayName": "Arcane"
+    },
+    {
+        "Keys": [
+            "Liino"
+        ],
+        "ReleaseDate": "2026-07-16T00:00:00",
+        "Image": "Liino.png",
+        "Rarity": 6,
+        "Element": "Electric",
+        "Class": "Polearm",
+        "Region": [
+            "TGCC"
+        ],
+        "ModFilesName": "Liino",
+        "InGameSkins": [],
+        "InternalName": "Liino",
+        "DisplayName": "Liino"
     }
 ]
