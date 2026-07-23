@@ -717,7 +717,14 @@
       "Startorch Academy"
     ],
     "ModFilesName": "Chisa",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "ChisaPeachParfait",
+        "Image": "ChisaPeachParfait.png",
+        "InternalName": "Chisa Peach Parfait",
+        "DisplayName": "Peach Parfait"
+      }
+    ],
     "InternalName": "Chisa",
     "DisplayName": "Chisa"
   },
@@ -751,7 +758,14 @@
       "Lahai-Roi"
     ],
     "ModFilesName": "Lynae",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "LynaePeppermint",
+        "Image": "LynaePeppermint.png",
+        "InternalName": "Lynae Peppermint",
+        "DisplayName": "Peppermint"
+      }
+    ],
     "InternalName": "Lynae",
     "DisplayName": "Lynae"
   },
@@ -973,7 +987,7 @@
     "ReleaseDate": "2026-09-10T00:00:00",
     "Image": "Hsin.png",
     "Rarity": 5,
-    "Element": "None",
+    "Element": "Electro",
     "Class": "None",
     "Region": ["Huanglong"],
     "ModFilesName": "Hsin",
