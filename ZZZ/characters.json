@@ -315,7 +315,14 @@
       "Calydon"
     ],
     "ModFilesName": "Lucy",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "LucyPrincessOnHoliday",
+        "Image": "LucyPrincessOnHoliday.png",
+        "InternalName": "LucyPrincessOnHoliday",
+        "DisplayName": "Princess on Holiday"
+      }
+    ],
     "InternalName": "Lucy",
     "DisplayName": "Lucy"
   },
@@ -1138,5 +1145,56 @@
     ],
     "InternalName": "VelinaAirgid",
     "DisplayName": "Velina"
+  },
+  {
+    "Keys": [
+      "Remielle",
+      "Dan"
+    ],
+    "ReleaseDate": "2026-07-29T00:00:00",
+    "Image": "Remielle.png",
+    "Rarity": 5,
+    "Element": "Lumiflux",
+    "Class": "Anomaly",
+    "Region": ["Covenant of Dayat"],
+    "ModFilesName": "Remielle",
+    "InGameSkins": [
+      {
+        "ModFilesName": "RemielleMoonlightWhispers",
+        "Image": "RemielleMoonlightWhispers.png",
+        "InternalName": "RemielleMoonlightWhispers",
+        "DisplayName": "Moonlight Whispers"
+      },
+      {
+        "ModFilesName": "RemielleSeashadePasSeul",
+        "Image": "RemielleSeashadePasSeul.png",
+        "InternalName": "RemielleSeashadePasSeul",
+        "DisplayName": "Seashade Pas Seul"
+      }
+    ],
+    "InternalName": "Remielle",
+    "DisplayName": "Remielle"
+  },
+  {
+    "Keys": [
+      "Sigrid"
+    ],
+    "ReleaseDate": "2026-07-30T00:00:00",
+    "Image": "Sigrid.png",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Attack",
+    "Region": ["Airspace Patrol Department"],
+    "ModFilesName": "Sigrid",
+    "InGameSkins": [
+      {
+        "ModFilesName": "SigridMajesticWavechaser",
+        "Image": "SigridMajesticWavechaser.png",
+        "InternalName": "SigridMajesticWavechaser",
+        "DisplayName": "Majestic Wavechaser"
+      }
+    ],
+    "InternalName": "Sigrid",
+    "DisplayName": "Sigrid"
   }
 ]

@@ -309,7 +309,12 @@
       "Calydon"
     ],
     "ModFilesName": "Lucy",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "InternalName": "LucyPrincessOnHoliday",
+        "DisplayName": "公主假日"
+      }     
+    ],
     "InternalName": "Lucy",
     "DisplayName": "露西"
   },
@@ -731,5 +736,29 @@
         "DisplayName": "暇时闲影"
       }
     ]
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "RemielleMoonlightWhispers",
+        "DisplayName": "月夜密语"
+      },
+      {
+        "InternalName": "RemielleSeashadePasSeul",
+        "DisplayName": "影池独舞"
+      }
+    ],
+    "InternalName": "Remielle",
+    "DisplayName": "蕾米埃尔"
+  },
+  {
+    "InGameSkins": [
+      {
+        "InternalName": "SigridMajesticWavechaser",
+        "DisplayName": "惊鸿逐浪"
+      }
+    ],
+    "InternalName": "Sigrid",
+    "DisplayName": "希格莉德"
   }
 ]
