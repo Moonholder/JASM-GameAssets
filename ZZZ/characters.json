@@ -1033,7 +1033,14 @@
       "Angels of Delusion"
     ],
     "ModFilesName": "NangongYu",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "NangongYuRhapsodyMuse",
+        "Image": "NangongYuRhapsodyMuse.png",
+        "InternalName": "NangongYuRhapsodyMuse",
+        "DisplayName": "Rhapsody's Muse"
+      }
+    ],
     "InternalName": "NangongYu",
     "DisplayName": "Nangong Yu"
   },
@@ -1196,5 +1203,38 @@
     ],
     "InternalName": "Sigrid",
     "DisplayName": "Sigrid"
+  },
+  {
+    "Keys": [
+      "Claret",
+      "Flint"
+    ],
+    "ReleaseDate": "2026-08-30T00:00:00",
+    "Image": "Claret.png",
+    "Rarity": 5,
+    "Element": "Electric",
+    "Class": "TBA",
+    "Region": ["Flint Workshop"],
+    "ModFilesName": "Claret",
+    "InGameSkins": [],
+    "InternalName": "Claret",
+    "DisplayName": "Claret"
+  },
+  {
+    "Keys": [
+      "Roxy",
+      "Ifrita",
+      "Pryce"
+    ],
+    "ReleaseDate": "2026-08-30T00:00:00",
+    "Image": "Roxy.png",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Stun",
+    "Region": ["Flint Workshop"],
+    "ModFilesName": "Roxy",
+    "InGameSkins": [],
+    "InternalName": "Roxy",
+    "DisplayName": "Roxy"
   }
 ]

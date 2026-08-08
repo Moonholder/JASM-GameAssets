@@ -709,7 +709,13 @@
   },
   {
     "InternalName": "NangongYu",
-    "DisplayName": "南宫羽"
+    "DisplayName": "南宫羽",
+    "InGameSkins": [
+      {
+        "InternalName": "NangongYuRhapsodyMuse",
+        "DisplayName": "狂想缪斯"
+      }
+    ]
   },
   {
     "InternalName": "Promeia",
@@ -760,5 +766,13 @@
     ],
     "InternalName": "Sigrid",
     "DisplayName": "希格莉德"
+  },
+    {
+    "InternalName": "Claret",
+    "DisplayName": "克拉蕾"
+  },
+  {
+    "InternalName": "Roxy",
+    "DisplayName": "洛克茜"
   }
 ]
