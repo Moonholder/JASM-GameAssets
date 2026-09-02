@@ -2233,5 +2233,56 @@
     "InGameSkins": [],
     "InternalName": "Sandrone",
     "DisplayName": "Sandrone"
+  },
+  {
+    "Keys": [
+      "alyosha"
+    ],
+    "ReleaseDate": "2026-08-12T00:00:00",
+    "Image": "Alyosha.png",
+    "Rarity": 4,
+    "Element": "Electro",
+    "Class": "Polearm",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Alyosha",
+    "InGameSkins": [],
+    "InternalName": "Alyosha",
+    "DisplayName": "Alyosha"
+  },
+  {
+    "Keys": [
+      "ifa"
+    ],
+    "ReleaseDate": "2025-05-07T00:00:00",
+    "Image": "Ifa.png",
+    "Rarity": 4,
+    "Element": "Anemo",
+    "Class": "Catalyst",
+    "Region": [
+      "Natlan"
+    ],
+    "ModFilesName": "Ifa",
+    "InGameSkins": [],
+    "InternalName": "Ifa",
+    "DisplayName": "Ifa"
+  },
+  {
+    "Keys": [
+      "odette"
+    ],
+    "ReleaseDate": "2026-08-12T00:00:00",
+    "Image": "Odette.png",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Odette",
+    "InGameSkins": [],
+    "InternalName": "Odette",
+    "DisplayName": "Odette"
   }
 ]

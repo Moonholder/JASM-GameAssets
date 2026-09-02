@@ -303,7 +303,7 @@
         "InternalName": "Nilou Breeze of Sabaa",
         "DisplayName": "莎邦之息"
       }
-    ] 
+    ]
   },
   {
     "InGameSkins": [
@@ -396,7 +396,7 @@
   {
     "InternalName": "Traveler (Male)",
     "DisplayName": "旅行者（男）",
-        "InGameSkins": [
+    "InGameSkins": [
       {
         "InternalName": "Aether As Heaven and Earth Are Made Anew",
         "DisplayName": "复地重天"
@@ -700,7 +700,7 @@
     "InternalName": "Iansan",
     "DisplayName": "伊安珊"
   },
-    {
+  {
     "InternalName": "Escoffier",
     "DisplayName": "爱可菲"
   },
@@ -779,5 +779,17 @@
   {
     "InternalName": "Sandrone",
     "DisplayName": "桑多涅"
+  },
+  {
+    "InternalName": "Alyosha",
+    "DisplayName": "阿廖沙"
+  },
+  {
+    "InternalName": "Ifa",
+    "DisplayName": "伊法"
+  },
+  {
+    "InternalName": "Odette",
+    "DisplayName": "奥黛特"
   }
 ]
