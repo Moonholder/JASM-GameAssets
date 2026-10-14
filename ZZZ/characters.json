@@ -693,7 +693,7 @@
     "InternalName": "Hugo",
     "DisplayName": "Hugo"
   },
-    {
+  {
     "Keys": [
       "Yixuan"
     ],
@@ -747,7 +747,14 @@
       "Yunkui"
     ],
     "ModFilesName": "PanYinhu",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "PanYinhuCulinaryJewel",
+        "Image": "PanYinhuCulinaryJewel.png",
+        "InternalName": "PanYinhuCulinaryJewel",
+        "DisplayName": "Culinary Jewel"
+      }
+    ],
     "InternalName": "PanYinhu",
     "DisplayName": "Pan Yinhu"
   },
@@ -990,6 +997,12 @@
         "Image": "AriaDiscordantNote.webp",
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Discordant Note"
+      },
+      {
+        "ModFilesName": "AriaCutenessLoading",
+        "Image": "AriaCutenessLoading.png",
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Cuteness Loading"
       }
     ],
     "InternalName": "Aria",
@@ -1014,6 +1027,12 @@
         "Image": "SunnaAfternoonTeaBreak.webp",
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Afternoon Tea Break"
+      },
+      {
+        "ModFilesName": "SunnaDelusionsInBusiness",
+        "Image": "SunnaDelusionsInBusiness.png",
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Delusions in Business"
       }
     ],
     "InternalName": "Sunna",
@@ -1039,6 +1058,12 @@
         "Image": "NangongYuRhapsodyMuse.png",
         "InternalName": "NangongYuRhapsodyMuse",
         "DisplayName": "Rhapsody's Muse"
+      },
+      {
+        "ModFilesName": "NangongYuHeartfeltSupport",
+        "Image": "NangongYuHeartfeltSupport.png",
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Heartfelt Support"
       }
     ],
     "InternalName": "NangongYu",
@@ -1163,7 +1188,9 @@
     "Rarity": 5,
     "Element": "Lumiflux",
     "Class": "Anomaly",
-    "Region": ["Covenant of Dayat"],
+    "Region": [
+      "Covenant of Dayat"
+    ],
     "ModFilesName": "Remielle",
     "InGameSkins": [
       {
@@ -1191,7 +1218,9 @@
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Attack",
-    "Region": ["Airspace Patrol Department"],
+    "Region": [
+      "Airspace Patrol Department"
+    ],
     "ModFilesName": "Sigrid",
     "InGameSkins": [
       {
@@ -1214,7 +1243,9 @@
     "Rarity": 5,
     "Element": "Electric",
     "Class": "TBA",
-    "Region": ["Flint Workshop"],
+    "Region": [
+      "Flint Workshop"
+    ],
     "ModFilesName": "Claret",
     "InGameSkins": [],
     "InternalName": "Claret",
@@ -1231,10 +1262,50 @@
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Stun",
-    "Region": ["Flint Workshop"],
+    "Region": [
+      "Flint Workshop"
+    ],
     "ModFilesName": "Roxy",
     "InGameSkins": [],
     "InternalName": "Roxy",
     "DisplayName": "Roxy"
+  },
+  {
+    "Keys": [
+      "phoenix",
+      "reffaella",
+      "phoenixreffaella",
+      "菲尼克斯",
+      "菲尼克斯·拉法埃拉"
+    ],
+    "ReleaseDate": "2026-09-12T00:00:00",
+    "Image": "Phoenix.png",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Anomaly",
+    "Special": "Krampus Compliance Authority",
+    "ModFilesName": "Phoenix",
+    "InGameSkins": [],
+    "InternalName": "Phoenix",
+    "DisplayName": "Phoenix"
+  },
+  {
+    "Keys": [
+      "severian",
+      "lowell",
+      "severianlowell",
+      "塞维里安",
+      "塞维里安·洛威尔"
+    ],
+    "ReleaseDate": "2026-09-12T00:00:00",
+    "Image": "Severian.png",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Attack",
+    "Special": "Criminal Investigation Special Response Team",
+    "ModFilesName": "Severian",
+    "InGameSkins": [],
+    "InternalName": "Severian",
+    "DisplayName": "Severian"
   }
 ]

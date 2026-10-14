@@ -1498,5 +1498,20 @@
     "InGameSkins": [],
     "InternalName": "AventurineWaveflair",
     "DisplayName": "Aventurine • Waveflair"
+  },
+  {
+    "Keys": [
+      "pearl",
+      "真珠"
+    ],
+    "ReleaseDate": "2026-09-20T00:00:00",
+    "Image": "Pearl.png",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Elation",
+    "ModFilesName": "Pearl",
+    "InGameSkins": [],
+    "InternalName": "Pearl",
+    "DisplayName": "Pearl"
   }
 ]

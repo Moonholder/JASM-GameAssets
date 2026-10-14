@@ -2284,5 +2284,41 @@
     "InGameSkins": [],
     "InternalName": "Odette",
     "DisplayName": "Odette"
+  },
+  {
+    "Keys": [
+      "vesna",
+      "薇斯纳"
+    ],
+    "ReleaseDate": "2026-09-23T00:00:00",
+    "Image": "Vesna.png",
+    "Rarity": 5,
+    "Element": "Anemo",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Vesna",
+    "InGameSkins": [],
+    "InternalName": "Vesna",
+    "DisplayName": "Vesna"
+  },
+  {
+    "Keys": [
+      "vodyanitsa",
+      "沃雅妮莎"
+    ],
+    "ReleaseDate": "2026-09-23T00:00:00",
+    "Image": "Vodyanitsa.png",
+    "Rarity": 5,
+    "Element": "Hydro",
+    "Class": "Catalyst",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Vodyanitsa",
+    "InGameSkins": [],
+    "InternalName": "Vodyanitsa",
+    "DisplayName": "Vodyanitsa"
   }
 ]
