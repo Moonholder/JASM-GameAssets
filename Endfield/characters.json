@@ -534,8 +534,7 @@
   },
   {
     "Keys": [
-      "purrchena",
-      "噗切娜"
+      "Purrchena"
     ],
     "ReleaseDate": "2026-09-02T00:00:00",
     "Image": "Purrchena.png",
@@ -552,8 +551,7 @@
   },
   {
     "Keys": [
-      "typhoeus",
-      "提弗洛斯"
+      "Typhoeus"
     ],
     "ReleaseDate": "2026-09-02T00:00:00",
     "Image": "Typhoeus.png",
@@ -570,9 +568,7 @@
   },
   {
     "Keys": [
-      "argentflow",
-      "minghe",
-      "明河"
+      "ArgentFlow"
     ],
     "ReleaseDate": "2026-10-06T00:00:00",
     "Image": "ArgentFlow.png",
@@ -589,8 +585,7 @@
   },
   {
     "Keys": [
-      "si",
-      "祀"
+      "Si"
     ],
     "ReleaseDate": "2026-10-06T00:00:00",
     "Image": "Si.png",

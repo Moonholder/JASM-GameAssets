@@ -1272,11 +1272,8 @@
   },
   {
     "Keys": [
-      "phoenix",
-      "reffaella",
-      "phoenixreffaella",
-      "菲尼克斯",
-      "菲尼克斯·拉法埃拉"
+      "Phoenix",
+      "Reffaella"
     ],
     "ReleaseDate": "2026-09-12T00:00:00",
     "Image": "Phoenix.png",
@@ -1291,11 +1288,8 @@
   },
   {
     "Keys": [
-      "severian",
-      "lowell",
-      "severianlowell",
-      "塞维里安",
-      "塞维里安·洛威尔"
+      "Severian",
+      "Lowell"
     ],
     "ReleaseDate": "2026-09-12T00:00:00",
     "Image": "Severian.png",
