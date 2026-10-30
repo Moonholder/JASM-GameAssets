@@ -1,7 +1,9 @@
 [
   {
     "Keys": [
-      "rover"
+      "rover",
+      "Rover Female",
+      "Rover Male"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
     "Image": "rover.png",

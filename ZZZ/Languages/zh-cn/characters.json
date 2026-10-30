@@ -795,10 +795,32 @@
   },
   {
     "InternalName": "Phoenix",
-    "DisplayName": "菲欧妮"
+    "DisplayName": "菲欧妮",
+    "InGameSkins": [
+      {
+        "InternalName": "PhoenixDaydreamComplex",
+        "DisplayName": "空想症候"
+      },
+      {
+        "InternalName": "PhoenixTheIllnessCalledLife",
+        "DisplayName": "病名为生"
+      }
+    ]
   },
   {
     "InternalName": "Severian",
     "DisplayName": "赛维里安"
+  },
+  {
+    "InternalName": "Kafka",
+    "DisplayName": "卡芙卡"
+  },
+  {
+    "InternalName": "Robin",
+    "DisplayName": "知更鸟"
+  },
+  {
+    "InternalName": "Sunbringer",
+    "DisplayName": "挽昼"
   }
 ]
