@@ -7,6 +7,7 @@ on:
       - '.github/**'
       - 'manifest.json'
       - 'README.md'
+  workflow_dispatch:
 
 jobs:
   generate-manifest:
@@ -23,10 +24,11 @@ jobs:
       - name: Generate manifest.json
         run: |
           python -c "
-          import os, json, datetime, xxhash
+          import os, json, datetime, xxhash, subprocess
 
           manifest = {
               'version': datetime.datetime.utcnow().strftime('%Y.%m.%d'),
+              'commit': os.environ.get('GITHUB_SHA', '') or (subprocess.check_output(['git', 'rev-parse', 'HEAD']).decode().strip() if os.path.exists('.git') else ''),
               'files': []
           }
 
