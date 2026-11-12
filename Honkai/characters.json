@@ -1516,5 +1516,20 @@
     "InGameSkins": [],
     "InternalName": "Pearl",
     "DisplayName": "Pearl"
+  },
+  {
+    "Keys": [
+      "Aha",
+      "AeonAha"
+    ],
+    "ReleaseDate": "2026-11-11T00:00:00",
+    "Image": "AeonAha.png",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "ModFilesName": "AeonAha",
+    "InGameSkins": [],
+    "InternalName": "AeonAha",
+    "DisplayName": "Aeon ★ Aha"
   }
 ]

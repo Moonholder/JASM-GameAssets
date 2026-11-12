@@ -1033,5 +1033,19 @@
     "InGameSkins": [],
     "InternalName": "Suoming",
     "DisplayName": "Suoming"
+  },
+  {
+    "Keys": [
+      "Lily"
+    ],
+    "ReleaseDate": "2026-11-12T00:00:00",
+    "Image": "Lily.png",
+    "Rarity": 5,
+    "Element": "Spectro",
+    "Class": "Pistols",
+    "ModFilesName": "Lily",
+    "InGameSkins": [],
+    "InternalName": "Lily",
+    "DisplayName": "Lily"
   }
 ]
