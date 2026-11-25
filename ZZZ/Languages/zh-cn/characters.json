@@ -809,7 +809,13 @@
   },
   {
     "InternalName": "Severian",
-    "DisplayName": "赛维里安"
+    "DisplayName": "赛维里安",
+    "InGameSkins": [
+      {
+        "InternalName": "SeverianSolemnlyImpeccable",
+        "DisplayName": "肃仪无犯"
+      }
+    ]
   },
   {
     "InternalName": "Kafka",

@@ -1332,7 +1332,14 @@
     "Class": "Attack",
     "Special": "Criminal Investigation Special Response Team",
     "ModFilesName": "Severian",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "SeverianSolemnlyImpeccable",
+        "Image": "SeverianSolemnlyImpeccable.png",
+        "InternalName": "SeverianSolemnlyImpeccable",
+        "DisplayName": "Solemnly Impeccable"
+      }
+    ],
     "InternalName": "Severian",
     "DisplayName": "Severian"
   },

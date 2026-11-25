@@ -860,7 +860,14 @@
       "Lahai-Roi"
     ],
     "ModFilesName": "Hiyuki",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "HiyukiLuneNoire",
+        "Image": "HiyukiLuneNoire.png",
+        "InternalName": "HiyukiLuneNoire",
+        "DisplayName": "Lune Noire"
+      }
+    ],
     "InternalName": "Hiyuki",
     "DisplayName": "Hiyuki"
   },

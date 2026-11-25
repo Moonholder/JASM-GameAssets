@@ -255,7 +255,13 @@
   },
   {
     "InternalName": "Hiyuki",
-    "DisplayName": "绯雪"
+    "DisplayName": "绯雪",
+    "InGameSkins": [
+      {
+        "InternalName": "HiyukiLuneNoire",
+        "DisplayName": "月沉霜"
+      }
+    ]
   },
   {
     "InternalName": "Denia",

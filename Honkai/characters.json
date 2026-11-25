@@ -709,7 +709,14 @@
       "Herta Space Station"
     ],
     "ModFilesName": "RuanMei",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RuanMeiPlumblossomLetter",
+        "Image": "RuanMeiPlumblossomLetter.png",
+        "InternalName": "RuanMeiPlumblossomLetter",
+        "DisplayName": "Plumblossom Letter"
+      }
+    ],
     "InternalName": "RuanMei",
     "DisplayName": "Ruan Mei"
   },
@@ -1125,7 +1132,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Castorice",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CastoriceGossamerFlutter",
+        "Image": "CastoriceGossamerFlutter.png",
+        "InternalName": "CastoriceGossamerFlutter",
+        "DisplayName": "Gossamer Flutter"
+      }
+    ],
     "InternalName": "Castorice",
     "DisplayName": "Castorice"
   },
@@ -1159,7 +1173,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Hyacine",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "HyacineWarmCottonSkies",
+        "Image": "HyacineWarmCottonSkies.png",
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "Warm Cotton Skies"
+      }
+    ],
     "InternalName": "Hyacine",
     "DisplayName": "Hyacine"
   },
@@ -1329,7 +1350,14 @@
       "Cosmic"
     ],
     "ModFilesName": "Sparxie",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "SparxieCandyCoatedWaves",
+        "Image": "SparxieCandyCoatedWaves.png",
+        "InternalName": "SparxieCandyCoatedWaves",
+        "DisplayName": "Candy-Coated Waves"
+      }
+    ],
     "InternalName": "Sparxie",
     "DisplayName": "Sparxie"
   },
@@ -1380,7 +1408,14 @@
       "Elixir Seekers"
     ],
     "ModFilesName": "Evanescia",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "EvanesciaLunarBlossoming",
+        "Image": "EvanesciaLunarBlossoming.png",
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "Lunar Blossoming"
+      }
+    ],
     "InternalName": "Evanescia",
     "DisplayName": "Evanescia"
   },
@@ -1528,7 +1563,14 @@
     "Element": "Quantum",
     "Class": "Elation",
     "ModFilesName": "AeonAha",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "AeonAhaStarLotto",
+        "Image": "AeonAhaStarLotto.png",
+        "InternalName": "AeonAhaStarLotto",
+        "DisplayName": "Star Lotto"
+      }
+    ],
     "InternalName": "AeonAha",
     "DisplayName": "Aeon ★ Aha"
   }

@@ -71,7 +71,13 @@
   },
   {
     "InternalName": "Charlotte",
-    "DisplayName": "夏洛蒂"
+    "DisplayName": "夏洛蒂",
+    "InGameSkins": [
+      {
+        "InternalName": "CharlotteHurlockVariations",
+        "DisplayName": "赫尔洛克变奏曲"
+      }
+    ]
   },
   {
     "InternalName": "Chongyun",
@@ -649,7 +655,12 @@
       "Natlan"
     ],
     "ModFilesName": "Citlali",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "InternalName": "CitlaliWhispersOfStarsAndSmoke",
+        "DisplayName": "星与烟帷的夜语"
+      }
+    ],
     "InternalName": "Citlali",
     "DisplayName": "茜特菈莉"
   },
@@ -738,7 +749,13 @@
   },
   {
     "InternalName": "Durin",
-    "DisplayName": "杜林"
+    "DisplayName": "杜林",
+    "InGameSkins": [
+      {
+        "InternalName": "DurinTowardTheDistantHorizon",
+        "DisplayName": "故事的远方"
+      }
+    ]
   },
   {
     "InternalName": "Jahoda",
@@ -799,5 +816,13 @@
   {
     "InternalName": "Vodyanitsa",
     "DisplayName": "沃雅妮莎"
+  },
+  {
+    "InternalName": "Mitya",
+    "DisplayName": "米提亚"
+  },
+  {
+    "InternalName": "Valeriy",
+    "DisplayName": "瓦列里"
   }
 ]

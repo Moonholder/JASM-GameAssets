@@ -700,7 +700,12 @@
       "Herta Space Station"
     ],
     "ModFilesName": "RuanMei",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "InternalName": "RuanMeiPlumblossomLetter",
+        "DisplayName": "雪绽梅笺"
+      }
+    ],
     "InternalName": "RuanMei",
     "DisplayName": "阮•梅"
   },
@@ -1065,7 +1070,13 @@
   },
   {
     "InternalName": "Castorice",
-    "DisplayName": "遐蝶"
+    "DisplayName": "遐蝶",
+    "InGameSkins": [
+      {
+        "InternalName": "CastoriceGossamerFlutter",
+        "DisplayName": "幽梦翩跹"
+      }
+    ]
   },
   {
     "InternalName": "Anaxa",
@@ -1073,7 +1084,13 @@
   },
   {
     "InternalName": "Hyacine",
-    "DisplayName": "风堇"
+    "DisplayName": "风堇",
+    "InGameSkins": [
+      {
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "云边拾暖"
+      }
+    ]
   },
   {
     "InternalName": "Cipher",
@@ -1113,7 +1130,13 @@
   },
   {
     "InternalName": "Sparxie",
-    "DisplayName": "火花"
+    "DisplayName": "火花",
+    "InGameSkins": [
+      {
+        "InternalName": "SparxieCandyCoatedWaves",
+        "DisplayName": "甜梦电波"
+      }
+    ]
   },
   {
     "InternalName": "YaoGuang",
@@ -1125,7 +1148,13 @@
   },
   {
     "InternalName": "Evanescia",
-    "DisplayName": "绯英"
+    "DisplayName": "绯英",
+    "InGameSkins": [
+      {
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "月待花时"
+      }
+    ]
   },
   {
     "InternalName": "MortenaxBlade",
@@ -1161,6 +1190,12 @@
   },
   {
     "InternalName": "AeonAha",
-    "DisplayName": "星神★阿哈"
+    "DisplayName": "星神★阿哈",
+    "InGameSkins": [
+      {
+        "InternalName": "AeonAhaStarLotto",
+        "DisplayName": "群星乐透"
+      }
+    ]
   }
 ]

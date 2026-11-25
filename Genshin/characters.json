@@ -204,7 +204,14 @@
       "Fontaine"
     ],
     "ModFilesName": "Charlotte",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CharlotteHurlockVariations",
+        "Image": "CharlotteHurlockVariations.png",
+        "InternalName": "CharlotteHurlockVariations",
+        "DisplayName": "Hurlock Variations"
+      }
+    ],
     "InternalName": "Charlotte",
     "DisplayName": "Charlotte"
   },
@@ -1801,7 +1808,14 @@
       "Natlan"
     ],
     "ModFilesName": "Citlali",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CitlaliWhispersOfStarsAndSmoke",
+        "Image": "CitlaliWhispersOfStarsAndSmoke.png",
+        "InternalName": "CitlaliWhispersOfStarsAndSmoke",
+        "DisplayName": "Whispers of Stars and Smoke"
+      }
+    ],
     "InternalName": "Citlali",
     "DisplayName": "Citlali"
   },
@@ -2059,7 +2073,14 @@
       "Mondstadt"
     ],
     "ModFilesName": "Durin",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "DurinTowardTheDistantHorizon",
+        "Image": "DurinTowardTheDistantHorizon.png",
+        "InternalName": "DurinTowardTheDistantHorizon",
+        "DisplayName": "Toward the Distant Horizon"
+      }
+    ],
     "InternalName": "Durin",
     "DisplayName": "Durin"
   },
@@ -2318,5 +2339,39 @@
     "InGameSkins": [],
     "InternalName": "Vodyanitsa",
     "DisplayName": "Vodyanitsa"
+  },
+  {
+    "Keys": [
+      "mitya"
+    ],
+    "ReleaseDate": "2026-11-04T00:00:00",
+    "Image": "Mitya.png",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Catalyst",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Mitya",
+    "InGameSkins": [],
+    "InternalName": "Mitya",
+    "DisplayName": "Mitya"
+  },
+  {
+    "Keys": [
+      "valeriy"
+    ],
+    "ReleaseDate": "2026-11-04T00:00:00",
+    "Image": "Valeriy.png",
+    "Rarity": 4,
+    "Element": "Electro",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Valeriy",
+    "InGameSkins": [],
+    "InternalName": "Valeriy",
+    "DisplayName": "Valeriy"
   }
 ]

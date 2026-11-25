@@ -599,5 +599,39 @@
     "InGameSkins": [],
     "InternalName": "Si",
     "DisplayName": "Si"
+  },
+  {
+    "Keys": [
+      "kay"
+    ],
+    "ReleaseDate": "2026-11-25T00:00:00",
+    "Image": "Kay.png",
+    "Rarity": 6,
+    "Element": "Natura",
+    "Class": "Polearm",
+    "Region": [
+      "Rhodes Island"
+    ],
+    "ModFilesName": "Kay",
+    "InGameSkins": [],
+    "InternalName": "Kay",
+    "DisplayName": "Kay"
+  },
+  {
+    "Keys": [
+      "mimino"
+    ],
+    "ReleaseDate": "2026-11-21T00:00:00",
+    "Image": "Mimino.png",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Handcannon",
+    "Region": [
+      "UWST"
+    ],
+    "ModFilesName": "Mimino",
+    "InGameSkins": [],
+    "InternalName": "Mimino",
+    "DisplayName": "Mimino"
   }
 ]
